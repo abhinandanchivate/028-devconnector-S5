@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI: "mongodb://127.0.0.1:27017/devconnector",
+  mongoURI: "mongodb+srv://admin:admin@cluster0.buysa.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   secretOrKey: "secret",
 };
